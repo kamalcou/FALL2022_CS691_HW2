@@ -1,0 +1,13 @@
+
+The following have been reloaded with a version change:
+  1) intel/19.1.2.275 => intel/19.0.4.243
+
+
+The following have been reloaded with a version change:
+  1) intel/19.0.4.243 => intel/19.1.2.275
+
+Naïve CPU Version Matrix multiplication for size = 10000  time taken = 895805.848122 ms
+cblas_dgemm CPU Version Matrix multiplication for size = 10000  time taken = 53846.503019 ms
+Simple GPU Version time Matrix multiplication for size = 10000 time taken=0.003104 ms
+Shared Memory GPU Version for size = 10000 taken time=0.002816 ms
+cublasDgemm GPU Version for size = 10000 taken time=0.003104 ms
